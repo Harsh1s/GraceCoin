@@ -6,6 +6,14 @@ By: Harsh Raj
 
 Email: harsh.raj.cd.ece21@itbhu.ac.in
 
+How to Use:
+         
+         Type "make" in the Terminal after opening the directory containing files.
+         Run the executable created with a command from Command List.
+         "./main help"
+         Any command can be used in place of help.
+         Then navigate through the UI.
+
 Command List:
 
          "help: show basic commands with descriptions",
