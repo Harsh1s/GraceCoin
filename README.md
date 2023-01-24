@@ -1,5 +1,7 @@
 # GraceCoin
 
+A Cryptocurrency written from scratch utilising blockchain and P
+
 Made in c++
 
 By: Harsh Raj
