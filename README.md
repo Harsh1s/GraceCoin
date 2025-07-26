@@ -1,6 +1,6 @@
 # GraceCoin
 
-A Cryptocurrency written from scratch utilising blockchain and P
+A Cryptocurrency written from scratch utilising blockchain and PoW.
 
 Made in c++
 
